@@ -1,19 +1,10 @@
 {
   "build": {
     "production": {
-      "distribution": "store",
       "android": {
-        "buildType": "app-bundle"
-      },
-      "ios": {
-        "simulator": false
+        "buildType": "app-bundle",
+        "credentialsSource": "remote"
       }
-    },
-    "development": {
-      "distribution": "internal"
     }
-  },
-  "submit": {
-    "production": {}
   }
 }
