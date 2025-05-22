@@ -6,17 +6,8 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "cli": {
       "appVersionSource": "local"
-    },
-    "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
     },
     "android": {
       "package": "com.Fweehd.Tfahhad0a0project",
@@ -29,10 +20,6 @@
       "eas": {
         "projectId": "a6d13899-e2ec-4e56-8442-59e66652de87"
       }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "description": "Quickly generate React Native components with AI"
+    }
   }
 }
