@@ -1,12 +1,15 @@
 {
   "expo": {
     "name": "a0-project",
-    "slug": "snack-208518cd-9d9c-485f-b364-b22918568eaf",
+    "slug": "fwd",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
+    "cli": {
+      "appVersionSource": "local"
+    },
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
