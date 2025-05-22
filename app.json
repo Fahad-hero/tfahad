@@ -15,13 +15,18 @@
     "ios": {
       "supportsTablet": true
     },
-    "android": { 
+    "android": {
       "package": "com.Fweehd.Tfahhad0a0project",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       }
-    }, 
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a6d13899-e2ec-4e56-8442-59e66652de87"
+      }
+    },
     "web": {
       "favicon": "./assets/favicon.png"
     },
